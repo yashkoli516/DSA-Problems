@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/yashkoli516/DSA-Problems/tree/master/0137-single-number-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashkoli516/DSA-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/yashkoli516/DSA-Problems/tree/master/0137-single-number-ii) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yashkoli516/DSA-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
